@@ -1,0 +1,156 @@
+body{
+	background-image: url(https://tenor.com/vi/view/japan-cherry-blossom-spring-gif-13915775.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0
+}
+a:link{
+	color: white;
+}
+a:hover{
+	color: gold;
+}
+#p p{
+	background-color: blue
+	padding:10px;
+	display: none;
+}
+#p:hover p{
+	display: block;
+}
+#l p{
+	background-color: blue
+	padding:10px;
+	display: none;
+}
+#l:hover p{
+	display: block;
+}
+#m p{
+	background-color: blue
+	padding:10px;
+	display: none;
+}
+#m:hover p{
+	display: block;
+}
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+h4{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: white;
+	background-color: hsl(0,0%,9%);
+}
+h3{
+	text-align: right;
+	color: white;
+}
+form{
+	width: 360px;
+	margin-left: 20px;
+}
+form label{
+	display: flex;
+	margin-top: 20px
+	font-size:18px;
+
+}
+form input{
+	width: 100%
+	padding:7px;
+	border:none;
+	border:1px grey;
+	outline: none;
+}
+header{
+	color: white;
+	text-align:center;
+	padding: 25px;
+	font-family: arial;
+	font-size: 5em;
+	font-weight:bold;
+	text-shadow:3px 3px 5px black;
+	outline: none;
+	background: rgb(28,40,51);
+}
+.Boxes{
+	background-color: rgb(44, 62, 80);
+	height: 1410px;
+	width: 40%;
+	float: left;
+	outline: 1px solid black;
+}
+.Hello{
+		background-color: rgb(40, 55, 71);
+	height: 142.5px;
+	width: 60%;
+	float: right;
+}
+li{
+	color: black;
+	font-weight: bold;
+	font-family: bangtang;
+	font-size: 1em;
+}
+#School{
+color: gold;
+	font-family: Times New Roman;
+	font-weight: bold;
+	text-shadow: 3px 3px 5px black;
+}
+#HAHA{
+		font-family: Times New Roman;
+	font-weight: bold;
+ text-shadow: 3px 3px 5px black;
+}
+.location{
+	background-color: rgb(44, 62, 80 );
+	height: 32.5%;
+	width: 100%;
+	margin-bottom: 10px;
+}
+#Nato{
+	height: 24%;
+	width: 600px;
+}
+video{
+	margin-left: 80px;
+	outline: 5px solid black;
+}
+#b2{
+	height: 24%;
+	width:600px;
+	outline: 5px solid black;
+	margin-top: 10px;
+    margin-left:80px;
+}
+#disk{
+	height: 50%;
+	width:300px;
+	float: right;
+	margin-top: 250px;
+    margin-right:400px;
+}
+#o{
+	float: right;
+	margin-top: 25px;
+    margin-right:390px;
+    color: rgb(0, 153, 255);
+    border: 5px solid rgb(255, 102, 204);
+    background-color:rgb(230, 74, 25);
+    text-shadow: 3px 3px 5px black;
+    border-radius: 20px;
+    font-family: arial;
+}
+#aue{
+	float: right;
+	margin-top: 25px;
+    margin-right:390px;
+    }

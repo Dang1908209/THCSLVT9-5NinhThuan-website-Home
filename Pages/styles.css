@@ -1,0 +1,150 @@
+body{
+	background-image: url(https://tenor.com/vi/view/saturday-calm-weather-nature-gif-13782328.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0
+}
+#class{
+	color: white;
+	font-family: bangtang;
+	font-weight: bold;
+	text-align: left;
+	text-shadow: 3px 3px 5px black;
+}
+#Submarines{
+
+	color: gold;
+	font-family: Times New Roman;
+	font-weight: bold;
+	border:solid;
+	border-radius: 20px;
+	border-color: rgb(237,85,101);
+	text-shadow: 3px 3px 5px black;
+
+}
+#happy{
+	color: white;
+	font-family: arial;
+	text-shadow: 3px 3px 5px black;
+
+}
+#Bruh{
+	color: white;
+	background: center;
+	background-color: red;
+	border:3px solid black;
+	border-radius: 50px;
+	text-shadow: 3px 3px 5px black
+}
+a:link{
+	color: white;
+}
+a:hover{
+	color: gold;
+}
+.box{
+	width: 360px;
+	height: 620;
+	margin: auto;
+	border-radius: 20px;
+	background-color: white;
+}
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+h4{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: white;
+	background-color: hsl(0,0%,9%);
+}
+h3{
+	text-align: right;
+	color: white;
+}
+form{
+	width: 360px;
+	margin-left: 20px;
+}
+form label{
+	display: flex;
+	margin-top: 20px
+	font-size:18px;
+
+}
+form input{
+	width: 100%
+	padding:7px;
+	border:none;
+	border:1px grey;
+	outline: none;
+}
+header{
+	color: white;
+	background-color: grey;
+	text-align:center;
+	padding: 25px;
+	font-family: gothic;
+}
+#hje p{
+	background-color: blue
+	padding:10px;
+	display: none;
+}
+#hje:hover p{
+	display: block;
+}
+#hje{
+	color: white;
+	font-family: arial;
+	font-size:25px;
+	text-shadow: 3px 3px 5px black;
+	padding: 10px;
+}
+#UwU{
+	font-weight: bold;
+	font-family: arial;
+}
+#Test{
+	color: white;
+}
+#HAHA{
+	text-shadow: 3px 3px 5px black;
+	border:none;
+}
+.Where{
+	background-color:hsl(0,0%,15%);
+	height: 50px;
+
+}
+aside{
+	width: 40%;
+	float: left;
+	padding: 20px;
+	background-color: gray;
+	border: 1px solid black;
+}
+section{
+	width: 20%;
+	float: left;
+	padding: 20px;
+	background-color: gray;
+	border: 1px solid black;
+}
+#id{
+	border: 2px solid green;
+}
+ #Video{
+ 	border:10px dotted green;
+ 	border-radius: 20px;
+ 	padding: 10px;
+ }
+ video{
+ 	border:5px solid gold;
+ 	border-radius: 60px;
+ }
